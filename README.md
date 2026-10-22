@@ -1,5 +1,7 @@
 # lin — LIN (Local Interconnect Network) in pure Racket
 
+**English** · [中文](README.zh-CN.md)
+
 [![CI](https://github.com/turinglambdaai/lin/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/lin/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 `lin` implements the frame layer of **LIN** (Local Interconnect Network,
